@@ -36,12 +36,13 @@ Category 22 to 28 : Light issues.
 21 Factors influencing health status and contact with health services.
 
 And 7 categories without (CID):
-patient follow-up (22), 
-medical consultation (23), 
-blood donation (24), laboratory examination (25), 
-unjustified absence (26), 
-physiotherapy (27),
-dental consultation (28).
+22 patient follow-up , 
+23 medical consultation , 
+24 blood donation ,
+25 laboratory examination , 
+26 unjustified absence , 
+27 physiotherapy ,
+dental consultation.
 3. Month of absence
 4. Day of the week (Monday (2), Tuesday (3), Wednesday (4), Thursday (5), Friday (6))
 5. Seasons (summer (1), autumn (2), winter (3), spring (4))
